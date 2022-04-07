@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GroceriesApplication<groceries>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.groceries.GroceriesApplication",
+            "projectName": "groceries",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
